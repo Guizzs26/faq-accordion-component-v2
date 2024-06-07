@@ -4,11 +4,11 @@
 
 Project designed to put into practice important React concepts such as children prop, lifting state up and others...
 
+!!! From the pictures it looks like the projects are the same, but they're not! Now the 'accordion' parent component controls the state of the accordionItems by lifting state up and it is also only possible to open one accordion at a time. !!!
+
 ## Project images
 
 <img src='/images/image-1.png'></img>
-<img src='/images/image-2.png'></img>
-<img src='./images/image-3.png'></img>
 
 ## Learning 🧠
 
