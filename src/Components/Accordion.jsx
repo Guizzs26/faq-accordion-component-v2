@@ -16,7 +16,7 @@ export default function Accordion({ data }) {
           onOpen={setCurOpen}
           key={el.title}
         >
-          text={el.text}
+          {el.text}
         </AccordionItem>
       ))}
     </div>
